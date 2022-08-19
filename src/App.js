@@ -38,12 +38,8 @@ function App() {
           <Route  path="/userdetails" element={<Userdetails/>}/>
           <Route  path="/doctorinfo" element={<Doctorinfo/>}/>
           <Route  path="/hospitalinfo" element={<Hospitalinfo/>}/>
-<<<<<<< HEAD
-          
 
-=======
           <Route path="bookingsummary" element={<Bookingsummary/>}/>
->>>>>>> aaa7b8f6e045ec8348e7fe34b910287a3020c38c
            <Route path="/users">
             {/* <Route index element={<Adminlist/>}/> */}
             {/* <Route path=":userId" element={<Adminsingle/>}/> */}
